@@ -37,17 +37,22 @@ Interested in scalable backend systems, clean architecture and cloud infrastruct
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduardoBCosta03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBCosta03&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img src="https://streak-stats.demolab.com?user=EduardoBCosta03&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EduardoBCosta03&theme=tokyonight&hide_border=true"/>
-</p>A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoBCosta03&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardoBCosta03&theme=tokyonight"/>
+</p>
 
 ---
+## Contribution Overview
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoBCosta03&theme=tokyonight"/>
+</p>
 
 ## Contact
 
-- LinkedIn: (coloque o link real)
-- Email: (email profissional)
+- LinkedIn:
+
