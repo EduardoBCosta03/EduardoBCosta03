@@ -98,8 +98,6 @@ I care about **clean architecture**, **scalability**, **observability** and writ
   <img src="https://raw.githubusercontent.com/EduardoBCosta03/EduardoBCosta03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> *Snake animation requires the [github-snake](https://github.com/Platane/snk) workflow. I can set it up for you if you want.*
-
 ---
 
 ## 🎯 What I'm focusing on right now
